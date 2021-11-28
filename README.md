@@ -2,11 +2,11 @@
 
 The proposed solution is as follows: 
 
-##Training 
+#Training 
 
 ![training block diagram](./Training_BlockDiagram_Bg.png)
 
 
-##Testing
+#Testing
 
 ![training block diagram](./Testing_BlockDiagram_Bg.png)
