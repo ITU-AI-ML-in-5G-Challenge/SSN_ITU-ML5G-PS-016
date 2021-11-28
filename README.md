@@ -4,9 +4,9 @@ The proposed solution is as follows:
 
 ##Training 
 
-![training block diagram](./Images_BlockDiagrams/Training_BlockDiagram.png)
+![training block diagram](./Training_BlockDiagram_Bg.png)
 
 
 ##Testing
 
-![training block diagram](./Images_BlockDiagrams/Testing_BlockDiagram.png)
+![training block diagram](./Testing_BlockDiagram_Bg.png)
